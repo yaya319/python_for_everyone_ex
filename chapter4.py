@@ -2,8 +2,6 @@
 """
 Created on Sun Oct 14 21:52:07 2018
 
-@author: Yapei
-"""
 
 #Exercise 1: Run the program on your system and see what numbers you get. Run the program more than once and see what numbers you get.
 import random

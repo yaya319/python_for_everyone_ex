@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 17 20:25:56 2018
-
-@author: Yapei
-"""
-
 import os
 os.chdir("D:/learn/Python script/python for everyone/python_for_everyone_ex/")
 #chapiter 7

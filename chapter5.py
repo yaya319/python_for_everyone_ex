@@ -2,8 +2,6 @@
 """
 Created on Mon Oct 15 13:14:46 2018
 
-@author: Yapei
-"""
 #  exemple of chapter 5
 count = 0
 for itervar in [3, 41, 12, 9, 74, 15]:
